@@ -1,10 +1,11 @@
 
 <h1 align="center">Youtube -Layout</h1>
 
-<p align="center>
- <a href="#tecnologias">Tecnologias</a> |
- <a href="#projeto">Projeto</a> | 
- <a href="#como-executar">Como executar</a> 
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 ![youtube](https://user-images.githubusercontent.com/67668995/134439731-a343d17f-d287-4e55-a8f9-ef2ed9034d23.png)
